@@ -1,4 +1,4 @@
-# Visiview - Change Timepoint Interval
+# Visiview - Change Timepoint Interval [![DOI](https://zenodo.org/badge/373520807.svg)](https://zenodo.org/badge/latestdoi/373520807)
 
 Script wrote in Python using Visiview API to control the Visiview acquisition software for microscope.
 The script allow to change the time interval between timepoints after a given time.
