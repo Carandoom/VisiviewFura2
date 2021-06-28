@@ -5,6 +5,10 @@
 #	
 #	Christopher Henry - V1 - 2019-10-06
 #
+# To note: since then I realize we can change the time interval
+# without having to create a new setup and wait to reach a given timepoint
+# to then change it
+#
 
 
 # To change every dish
